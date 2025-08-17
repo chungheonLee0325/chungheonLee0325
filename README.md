@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" alt="프로필 사진" width="150" style="border-radius:50%; float:left; margin-right: 20px;"/>
-
 <h1>👋 안녕하세요, Unreal Client Engineer 이충헌입니다</h1>
 <h3>🎮 게임 개발의 모든 과정을 즐기는 개발자입니다</h3>
 
@@ -52,18 +50,25 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
 
 ## 🚀 주요 프로젝트 (Main Projects)
 
----
-
 <table width="100%" border="0" style="border:none; border-collapse: collapse;">
 
 <tr style="border-bottom: 1px solid #d0d7de;">
 <td width="45%" valign="top" style="padding:15px 10px 15px 15px;">
-  <a href="YOUTUBE_LINK_HERE" target="_blank">
-    <img src="https://user-images.githubusercontent.com/83523295/233767521-17c37466-0752-411a-a312-b98e72b4f918.gif" alt="VALORANT Gameplay GIF" width="100%"/>
+  <a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank">
+    <img src="https://github.com/chungheonLee0325/VALORANT/raw/main/Doc/Gifs/VALORITH_Overview.gif" alt="VALORANT Gameplay GIF" width="100%"/>
   </a>
   <p align="center" style="margin-top: 10px;">
-    <a href="YOUTUBE_LINK_HERE" target="_blank"><b>🎥 시연 영상 보기</b></a>
+    <a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank"><b>🎥 시연 영상 보기</b></a>
   </p>
+  <hr>
+  <p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.05 ~ 2025.06(2개월)</p>
+  <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트</p>
+  <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GAS-F85A5A?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Multiplayer-blue?style=for-the-badge"/>
+  </div>
 </td>
 <td width="55%" valign="top" style="padding:15px;">
   <h3 align="center">VALORANT (Multiplay Hypher FPS 게임)</h3>
@@ -81,29 +86,31 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
       <li><b>핵심 게임 루프 구축</b>: 스파이크 상태 머신과 상점/경제 시스템을 라운드 흐름에 유기적으로 결합했습니다.</li>
       <li><b>안정적인 동기화 구조</b>: 서버 권위 구조와 태그 기반 입력 라우팅을 통해 클라이언트-서버 간 동기화 및 검증 로직을 단순화했습니다.</li>
     </ul>
-    <p><strong>개발 환경:</strong></p>
-    <ul>
-      <li><b>Team</b>: 7인 팀 프로젝트</li>
-      <li><b>Engine</b>: Unreal Engine 5.5</li>
-      <li><b>Core Tech</b>: C++, Gameplay Ability System, <strong>Multiplayer</strong></li>
-    </ul>
   </div>
   <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>GitHub Repository</b></a>
     |
-    <a href="PORTFOLIO_LINK_HERE" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
+    <a href="https://possible-recess-c3b.notion.site/3D-1-FPS-20c6058f0c2e8044afe6f61a889349d2?source=copy_link" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
   </p>
 </td>
 </tr>
 
 <tr style="border-bottom: 1px solid #d0d7de;">
 <td width="45%" valign="top" style="padding:15px 10px 15px 15px;">
-  <a href="YOUTUBE_LINK_HERE" target="_blank">
-    <img src="https://img.youtube.com/vi/TDRRWp6M_9E/maxresdefault.jpg" alt="Sonheim Demo Thumbnail" width="100%"/>
+  <a href="https://www.youtube.com/watch?v=TDRRWp6M_9E" target="_blank">
+    <img src="https://github.com/chungheonLee0325/Sonheim/raw/main/Doc/Gifs/Project_Overview.gif" alt="Sonheim Demo Thumbnail" width="100%"/>
   </a>
   <p align="center" style="margin-top: 10px;">
-    <a href="YOUTUBE_LINK_HERE" target="_blank"><b>🎥 시연 영상 보기</b></a>
+    <a href="https://www.youtube.com/watch?v=TDRRWp6M_9E" target="_blank"><b>🎥 시연 영상 보기</b></a>
   </p>
+  <hr>
+  <p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.03 ~ 2025.04(1개월)</p>
+  <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 2인 팀 프로젝트</p>
+  <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multiplayer-blue?style=for-the-badge"/>
+  </div>
 </td>
 <td width="55%" valign="top" style="padding:15px;">
   <h3 align="center">Sonheim (Multiplay 액션 RPG)</h3>
@@ -121,17 +128,11 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
       <li><b>깊이 있는 전투 시스템</b>: 피아식별(IFF), 스킬, 투사체, 넉백, 속성/약점 등 복합적인 전투 메커니즘을 적용했습니다.</li>
       <li><b>데이터 주도형 설계</b>: 몬스터, 아이템, 스킬 등 대부분의 게임 요소를 데이터 테이블로 관리하여 개발 효율성을 극대화했습니다.</li>
     </ul>
-    <p><strong>개발 환경:</strong></p>
-    <ul>
-      <li><b>Team</b>: 2인 팀 프로젝트</li>
-      <li><b>Engine</b>: Unreal Engine 5.5</li>
-      <li><b>Core Tech</b>: C++, Data-Driven Design, <strong>Multiplayer Networking</strong></li>
-    </ul>
   </div>
   <p align="center" style="margin-top: 20px;">
     <a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>GitHub Repository</b></a>
     |
-    <a href="PORTFOLIO_LINK_HERE" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
+    <a href="https://possible-recess-c3b.notion.site/3D-1ff6058f0c2e8032b39fccd10bf7ca00?source=copy_link" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
   </p>
 </td>
 </tr>
@@ -142,8 +143,15 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
     <img src="https://user-images.githubusercontent.com/83523295/233767521-17c37466-0752-411a-a312-b98e72b4f918.gif" alt="Tazan Gameplay GIF" width="100%"/>
   </a>
   <p align="center" style="margin-top: 10px;">
-    <a href="YOUTUBE_LINK_HERE" target="_blank"><b>🎥 시연 영상 보기</b></a>
+    <a href="https://youtu.be/vQU0mdTJhvQ" target="_blank"><b>🎥 시연 영상 보기</b></a>
   </p>
+  <hr>
+  <p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.02 ~ 2025.03(1개월)</p>
+  <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 3인 팀 프로젝트</p>
+  <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  </div>
 </td>
 <td width="55%" valign="top" style="padding:15px;">
   <h3 align="center">Tazan (소울라이크 게임)</h3>
@@ -160,12 +168,6 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
       <li><b>상황인지형 스마트 Lock-on</b>: 화면 중앙과 실제 거리를 종합적으로 판단하여 최적의 타겟을 선정하고, 거리에 따라 카메라를 동적으로 제어합니다.</li>
       <li><b>정교한 판정을 위한 충돌 시스템</b>: 프레임 보간(Interpolation)으로 충돌 누락을 방지하고, 다중 히트박스를 지원하여 판정의 정확도를 높였습니다.</li>
       <li><b>입력과 연동된 정밀 타이밍 제어</b>: Enhanced Input과 AnimNotifyState를 연동하여 패리, 회피, 콤보 등 정교한 컨트롤을 구현했습니다.</li>
-    </ul>
-    <p><strong>개발 환경:</strong></p>
-    <ul>
-      <li><b>Team</b>: 3인 팀 프로젝트</li>
-      <li><b>Engine</b>: Unreal Engine 5.5</li>
-      <li><b>Core Tech</b>: C++, Enhanced Input</li>
     </ul>
   </div>
   <p align="center" style="margin-top: 20px;">
