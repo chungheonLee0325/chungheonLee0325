@@ -188,6 +188,45 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </p>
 </td>
 </tr>
+<tr>
+<td width="45%" valign="top" style="padding:15px;">
+<a href="https://github.com/chungheonLee0325/LostGPU" target="_blank">
+<img src="https://github.com/chungheonLee0325/LostGPU/raw/main/Doc/Gifs/LostGPU_Overview.gif" alt="LostGPU Gameplay GIF" width="100%"/>
+</a>
+<p align="center" style="margin-top: 10px;">
+<a href="http://googleusercontent.com/youtube.com/3" target="_blank"><b>🎥 시연 영상 보기</b></a>
+</p>
+<hr>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2024.12 (1개월)</p>
+<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 3인 팀 프로젝트</p>
+<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blueprint-100%25-0D90E1?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</div>
+</td>
+<td width="55%" valign="top" style="padding:15px;">
+<h3 align="center">LostGPU (100% Blueprint 액션 RPG)</h3>
+<p align="center" style="color: #57606a;">
+블루프린트를 사용하여 빠른 프로토타이핑 역량을 증명한 3D 액션 RPG
+</p>
+<p>
+언리얼 엔진 학습 1개월 만에 100% 블루프린트와 엔진의 주요 기능들을 활용하여 레이드 전투의 핵심 시스템을 완성했습니다. 이를 통해 새로운 기술에 대한 빠른 학습 능력과 아이디어를 신속하게 구현하는 역량을 증명합니다.
+</p>
+<div>
+<p><strong>주요 구현 내용:</strong></p>
+<ul>
+<li><b>FSM 기반의 정교한 전투 로직</b>: 플레이어의 스킬 시전 제약 및 대쉬 캔슬, 보스의 확률/사정거리 기반 '스킬 룰렛' 등 복잡한 전투 상호작용을 FSM으로 구현했습니다.</li>
+<li><b>확장성을 고려한 데이터 주도 설계</b>: 공용 <code>Base Skill Class</code>와 데이터 테이블을 활용해, 코드 수정 없이 스킬의 데미지, 쿨타임, 상태 이상 등을 유연하게 관리하고 추가할 수 있도록 설계했습니다.</li>
+<li><b>완성도 있는 레이드 루프 구현</b>: 보스 선택부터 컷신(Sequencer), 전투(갑옷/지형 파괴), 승패로 이어지는 하나의 완전한 콘텐츠 사이클을 완성했습니다.</li>
+</ul>
+</div>
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/LostGPU" target="_blank"><b>GitHub Repository</b></a>
+</p>
+</td>
+</tr>
+
 </table>
 ---
 <div align="center">
