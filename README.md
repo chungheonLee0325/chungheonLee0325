@@ -48,11 +48,18 @@ C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결�
 
 ---
 
-### 💡 제 포트폴리오를 200% 활용하는 법
-각 프로젝트는 아래 순서로 더 깊은 정보를 탐색할 수 있도록 설계되었습니다.
+### 💡 프로젝트 탐색 가이드
+<!-- [현재 페이지에 맞는 설명의 주석을 해제하여 사용하세요] -->
+현재 보고 계신 이 페이지는 여러 프로젝트를 소개하는 '갤러리' 입니다. 마음에 드는 프로젝트를 발견했다면, 아래 단계를 따라 깊게 탐색해 보세요.
+<!-- README 설명: 이 README는 프로젝트의 핵심을 요약한 '쇼케이스'입니다. 전체적인 개요를 파악한 뒤, 더 깊은 기술적 내용이 궁금하다면 Tech Docs를 확인해 보세요. -->
+<!-- Tech Docs 설명: 이 기술 문서는 프로젝트의 상세 구현을 다루는 '심층 분석' 자료입니다. README에서 생긴 궁금증을 이곳에서 코드를 통해 확인해 보세요. -->
 
-📋 **현재 페이지** (개요) ➔ 📁 **Repository README** (상세 구현) ➔ 🔗 **Portfolio Link** (심층 분석)
-> 궁금한 프로젝트가 있다면, 링크를 따라 더 깊게 파고들어 보세요!
+| 문서 | 역할 | 내용 |
+| :--- | :--- | :--- |
+| 📋 **Project Gallery** | **Root (전체 개요)** | 모든 프로젝트 목록, 핵심 역량 요약 |
+| 📁 Repository README | What & Why (개요) | 프로젝트 목표, 데모 영상, 핵심 기능, 아키텍처 |
+| 🔗 Tech Docs | How (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
+
 
 ---
 
@@ -99,9 +106,9 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>GitHub Repository</b></a>
+<a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
-<a href="https://possible-recess-c3b.notion.site/3D-1-FPS-20c6058f0c2e8044afe6f61a889349d2?source=copy_link" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
+<a href="https://possible-recess-c3b.notion.site/3D-1-FPS-20c6058f0c2e8044afe6f61a889349d2?source=copy_link" target="_blank"><b>🔗 Tech Docs</b></a>
 </p>
 </td>
 </tr>
@@ -147,9 +154,9 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>GitHub Repository</b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
-<a href="https://possible-recess-c3b.notion.site/3D-1ff6058f0c2e8032b39fccd10bf7ca00?source=copy_link" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
+<a href="https://possible-recess-c3b.notion.site/3D-1ff6058f0c2e8032b39fccd10bf7ca00?source=copy_link" target="_blank"><b>🔗 Tech Docs </b></a>
 </p>
 </td>
 </tr>
@@ -191,9 +198,9 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/Tazan" target="_blank"><b>GitHub Repository</b></a>
+<a href="https://github.com/chungheonLee0325/Tazan" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
-<a href="https://www.notion.so/Tazan-Project-C-1ff6058f0c2e80c68b38efdf320946f1?pvs=21" target="_blank"><b>포트폴리오 상세 보기 📄</b></a>
+<a href="https://www.notion.so/Tazan-Project-C-1ff6058f0c2e80c68b38efdf320946f1?pvs=21" target="_blank"><b>🔗 Tech Docs</b></a>
 </p>
 </td>
 </tr>
@@ -231,7 +238,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/LostGPU" target="_blank"><b>GitHub Repository</b></a>
+<a href="https://github.com/chungheonLee0325/LostGPU" target="_blank"><b>📁 Repository README</b></a>
 </p>
 </td>
 </tr>
