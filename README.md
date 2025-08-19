@@ -243,7 +243,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="[여기에 Dororong Work 레포지토리 링크를 넣어주세요]" target="_blank"><b>📁 Repository README</b></a>
+<a href="https://github.com/chungheonLee0325/VoiceCommand" target="_blank"><b>📁 Repository README</b></a>
 </p>
 </td>
 </tr>
