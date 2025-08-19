@@ -227,7 +227,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </td>
 <!-- 오른쪽: 상세 설명 -->
 <td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">Dororong Work (Voice Command)</h3>
+<h3 align="center">Dororong World (Voice Command)</h3>
 <p align="center" style="color: #57606a;">
 "도로롱, 제발 내 말좀 들어!!" - 음성 명령으로 팰을 조종하는 3D 자원 수집 게임
 </p>
