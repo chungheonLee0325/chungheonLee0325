@@ -206,20 +206,44 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </tr>
 <!-- ================================================================================================================= -->
 
-<!-- 프로젝트 5: Dororong Work (Voice Command) -->
+<!-- 프로젝트 4: Dororong World (Voice Command) -->
 
 <tr style="border-bottom: 1px solid #d0d7de;">
 <!-- 왼쪽: 이미지 및 영상 링크 -->
 <td width="45%" valign="top" style="padding:15px;">
-<img src="https://github.com/chungheonLee0325/VoiceCommand/raw/main/Document/Dororong World_resize.gif" alt="VALORANT Gameplay GIF" width="100%"/>
+<a href="https://youtu.be/cXoGXADRAa8" target="_blank">
+<img src="https://github.com/chungheonLee0325/VoiceCommand/raw/main/Document/Dororong World_resize.gif" alt="Dororong Work Gameplay GIF" width="100%"/>
 </a>
 <p align="center" style="margin-top: 10px;">
-게 명령을 전달하는 로직을 개발했습니다.</li>
+<a href="https://youtu.be/cXoGXADRAa8" target="_blank"><b>🎥 시연 영상 보기</b></a>
+</p>
+<hr>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.08 (2일 게임잼)</p>
+<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트 (게임팀 3, AI팀 4)</p>
+<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</div>
+</td>
+<!-- 오른쪽: 상세 설명 -->
+<td width="55%" valign="top" style="padding:15px;">
+<h3 align="center">Dororong Work (Voice Command)</h3>
+<p align="center" style="color: #57606a;">
+"도로롱, 제발 내 말좀 들어!!" - 음성 명령으로 팰을 조종하는 3D 자원 수집 게임
+</p>
+<p>
+'AI와의 융합'을 주제로 한 게임잼에서 <strong>우승한 프로젝트</strong>입니다. 플레이어의 자연어 음성 명령을 AI가 분석하여 게임 내 '팰'에게 작업을 지시하는 직관적인 플레이 방식을 구현했습니다.
+</p>
+<div>
+<p><strong>주요 구현 내용:</strong></p>
+<ul>
+<li><b>AI-게임 통신 시스템</b>: FastAPI 서버와 Unreal Engine 클라이언트 간의 실시간 통신 파이프라인을 구축하고, 음성 데이터 전송 및 분석된 명령(JSON)을 수신하는 기능을 구현했습니다.</li>
+<li><b>음성 명령 라우팅 시스템</b>: 수신된 JSON 데이터를 분석하여 '모두', '아무나', '개인(특정 대상)' 등 적절한 대상에게 명령을 전달하는 로직을 개발했습니다.</li>
 <li><b>핵심 게임 루프 구현</b>: 플레이어 캐릭터의 움직임, 자원(나무, 돌, 광석) 시스템, 레벨업 및 엔딩으로 이어지는 전체 게임 사이클을 구현했습니다.</li>
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/VoiceCommand" target="_blank"><b>📁 Repository README</b></a>
+<a href="[여기에 Dororong Work 레포지토리 링크를 넣어주세요]" target="_blank"><b>📁 Repository README</b></a>
 </p>
 </td>
 </tr>
