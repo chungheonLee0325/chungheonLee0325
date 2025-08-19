@@ -204,6 +204,26 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </p>
 </td>
 </tr>
+<!-- ================================================================================================================= -->
+
+<!-- 프로젝트 5: Dororong Work (Voice Command) -->
+
+<tr style="border-bottom: 1px solid #d0d7de;">
+<!-- 왼쪽: 이미지 및 영상 링크 -->
+<td width="45%" valign="top" style="padding:15px;">
+<img src="https://github.com/chungheonLee0325/VoiceCommand/raw/main/Document/Dororong World_resize.gif" alt="VALORANT Gameplay GIF" width="100%"/>
+</a>
+<p align="center" style="margin-top: 10px;">
+게 명령을 전달하는 로직을 개발했습니다.</li>
+<li><b>핵심 게임 루프 구현</b>: 플레이어 캐릭터의 움직임, 자원(나무, 돌, 광석) 시스템, 레벨업 및 엔딩으로 이어지는 전체 게임 사이클을 구현했습니다.</li>
+</ul>
+</div>
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/VoiceCommand" target="_blank"><b>📁 Repository README</b></a>
+</p>
+</td>
+</tr>
+
 <tr>
 <td width="45%" valign="top" style="padding:15px;">
 <a href="https://github.com/chungheonLee0325/LostGPU" target="_blank">
