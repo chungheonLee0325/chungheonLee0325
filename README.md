@@ -251,10 +251,10 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <tr>
 <td width="45%" valign="top" style="padding:15px;">
 <a href="https://github.com/chungheonLee0325/LostGPU" target="_blank">
-<img src="https://github.com/chungheonLee0325/LostGPU/raw/main/Doc/Gifs/LostGPU_Overview.gif" alt="LostGPU Gameplay GIF" width="100%"/>
+<img src="https://github.com/chungheonLee0325/LostGPU/blob/main/Docs/LostGPU.gif?raw=true" alt="LostGPU Gameplay GIF" width="100%"/>
 </a>
 <p align="center" style="margin-top: 10px;">
-<a href="http://googleusercontent.com/youtube.com/3" target="_blank"><b>🎥 시연 영상 보기</b></a>
+<a href="https://youtu.be/mgP-u5mvh1c" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
 <p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2024.12 (1개월)</p>
