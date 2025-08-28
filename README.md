@@ -1,15 +1,16 @@
 <div align="center">
 
 <h1>👋 안녕하세요, Unreal Client Engineer 이충헌입니다</h1>
-<h3>🎮 게임 개발의 모든 과정을 즐기는 개발자입니다</h3>
+<h3>🎮 "왜?"라고 질문하는 개발자, 이충헌입니다.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=C%2B%2B+%2B+Unreal+Engine+Developer;Game+System+Architecture;3+Years+Software+Development)](https://git.io/typing-svg)
 
 </div>
 
 <br clear="left"/> <p align="center">
+단순히 기능을 구현하는 것을 넘어, **"더 나은 구조는 무엇일까?"** 를 항상 고민합니다.<br> 
+견고하고 확장 가능한 아키텍처를 설계하는 것에 큰 흥미를 느끼며, 특히 복잡한 게임 시스템이 유기적으로 동작할 때 가장 큰 희열을 느낍니다.<br>
 효율적인 구조 설계를 통해 <strong>유지보수와 사용자 경험</strong>을 모두 잡는 것을 목표로 합니다.<br>
-C++ 기반의 탄탄한 설계 경험을 게임 개발에 대한 열정과 결합하여, 복잡한 게임 시스템을 안정적으로 구축하는 데 강점이 있습니다.<br>
 동료와 함께 배우고 성장하며 즐겁게 게임을 만드는 개발자입니다.
 </p>
 
