@@ -58,8 +58,8 @@
 | 문서 | 역할 | 내용 |
 | :--- | :--- | :--- |
 | 📋 **Project Gallery** | **Root (전체 개요)** | 주요 프로젝트 목록, 핵심 역량 요약 |
-| 📁 Repository README | What & Why (개요) | 프로젝트 목표, 데모 영상, 핵심 기능, 아키텍처 |
-| 🔗 Tech Docs | How (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
+| 📁 Repository README | What (개요) | 프로젝트 요, 데모 영상, 핵심 기능, 아키텍처 |
+| 🔗 Tech Docs | How & Why (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
 
 
 ---
@@ -109,7 +109,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <p align="center" style="margin-top: 20px;">
 <a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
-<a href="https://possible-recess-c3b.notion.site/3D-1-FPS-20c6058f0c2e8044afe6f61a889349d2?source=copy_link" target="_blank"><b>🔗 Tech Docs</b></a>
+<a href="https://github.com/chungheonLee0325/VALORANT/wiki" target="_blank"><b>🔗 Tech Docs</b></a>
 </p>
 </td>
 </tr>
