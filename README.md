@@ -18,7 +18,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fire6376@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fire6376/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e26058f0c2e80c3af66cd2aa6eb29ba)
 
 </div>
 
