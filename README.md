@@ -156,7 +156,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <p align="center" style="margin-top: 20px;">
 <a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
-<a href="https://possible-recess-c3b.notion.site/3D-1ff6058f0c2e8032b39fccd10bf7ca00?source=copy_link" target="_blank"><b>🔗 Tech Docs </b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim/wiki" target="_blank"><b>🔗 Tech Docs </b></a>
 </p>
 </td>
 </tr>
