@@ -161,51 +161,6 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </p>
 </td>
 </tr>
-<!-- ================================================================================================================= -->
-<!-- 프로젝트 3: Tazan -->
-<tr>
-<!-- 왼쪽: 이미지 및 영상 링크 -->
-<td width="45%" valign="top" style="padding:15px;">
-<a href="https://youtu.be/vQU0mdTJhvQ" target="_blank">
-<img src="https://user-images.githubusercontent.com/83523295/233767521-17c37466-0752-411a-a312-b98e72b4f918.gif" alt="Tazan Gameplay GIF" width="100%"/>
-</a>
-<p align="center" style="margin-top: 10px;">
-<a href="https://youtu.be/vQU0mdTJhvQ" target="_blank"><b>🎥 시연 영상 보기</b></a>
-</p>
-<hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.02 ~ 2025.03 (1개월)</p>
-<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 3인 팀 프로젝트</p>
-<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
-<div align="center">
-<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-</div>
-</td>
-<!-- 오른쪽: 상세 설명 -->
-<td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">Tazan (소울라이크 게임)</h3>
-<p align="center" style="color: #57606a;">
-독자적인 '강인도' 시스템으로 소울라이크 전투의 정수를 구현한 액션 게임
-</p>
-<p>
-소울라이크 장르의 깊이 있는 공방을 구현하기 위해 '강인도(Poise)' 기반 경직 시스템을 핵심으로 설계했습니다. 패리, 퍼펙트 회피, 차지 공격 등을 더해 긴장감 넘치는 전투 경험을 제공합니다.
-</p>
-<div>
-<p><strong>주요 구현 내용:</strong></p>
-<ul>
-<li><b>강인도 기반 경직 시스템</b>: 공격 강인도 vs 방어 강인도를 비교하고 경직 우선순위를 따져 상태를 갱신합니다.</li>
-<li><b>상황인지형 스마트 Lock-on</b>: 화면 중앙과 실제 거리를 종합적으로 판단하여 최적의 타겟을 선정하고, 거리에 따라 카메라를 동적으로 제어합니다.</li>
-<li><b>정교한 판정을 위한 충돌 시스템</b>: 프레임 보간(Interpolation)으로 충돌 누락을 방지하고, 다중 히트박스를 지원하여 판정의 정확도를 높였습니다.</li>
-<li><b>입력과 연동된 정밀 타이밍 제어</b>: Enhanced Input과 AnimNotifyState를 연동하여 패리, 회피, 콤보 등 정교한 컨트롤을 구현했습니다.</li>
-</ul>
-</div>
-<p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/Tazan" target="_blank"><b>📁 Repository README</b></a>
-&nbsp;|&nbsp;
-<a href="https://www.notion.so/Tazan-Project-C-1ff6058f0c2e80c68b38efdf320946f1?pvs=21" target="_blank"><b>🔗 Tech Docs</b></a>
-</p>
-</td>
-</tr>
-<!-- ================================================================================================================= -->
 
 <!-- 프로젝트 4: Dororong World (Voice Command) -->
 
