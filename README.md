@@ -78,7 +78,7 @@
 <a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.05 ~ 2025.06 (2개월)</p>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.05 ~ 25.06 (2M)</p>
 <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트</p>
 <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
 <div align="center">
@@ -97,7 +97,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 4종의 에이전트가 가진 12개의 스킬을 단일 프레임워크로 구현하는 것을 목표로 삼았습니다. 상점/경제 및 스파이크 설치/해체 등 발로란트의 핵심 게임 로직을 완성도 높게 구현했습니다.
 </p>
 <div>
-<p><strong>주요 구현 내용:</strong></p>
+<p><strong>담당 개발 및 역할:</strong></p>
 <ul>
 <li><b>모듈화된 어빌리티 설계</b>: 준비→대기→실행 상태머신을 기반으로 후속입력, 투사체, 장판형 스킬 모듈을 표준화하여 확장성을 확보했습니다.</li>
 <li><b>다양한 스킬 메커니즘 구현</b>: 즉발형(Jett), 후속입력형(KAY/O) 등 여러 에이전트의 스킬을 공통 시스템 내에서 구현했습니다.</li>
@@ -124,7 +124,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <a href="https://www.youtube.com/watch?v=TDRRWp6M_9E" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.03 ~ 2025.04 (1개월)</p>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.03 ~ 25.04 (1M) + 25.06 ~ 25.08 (2M)</p>
 <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 2인 팀 프로젝트</p>
 <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
 <div align="center">
@@ -139,10 +139,10 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 데이터 기반 멀티플레이 환경에서 다채로운 스킬과 액션을 구현한 RPG
 </p>
 <p>
-서버 권위 멀티플레이 환경을 기반으로, 전투·성장·자원 등 모든 핵심 시스템을 데이터 테이블 중심으로 구축했습니다. 이 데이터 주도형 구조는 코드 수정 없이 신규 콘텐츠 추가와 밸런스 조정이 용이하여 높은 확장성을 제공합니다.
+2인 팀으로 초기 기반(1개월)을 구축한 후, 단독으로 2개월간 시스템을 심화 개발했습니다. 서버 권위 멀티플레이 환경을 기반으로, 전투·성장·자원 등 모든 핵심 시스템을 데이터 테이블 중심으로 구축하여 코드 수정 없이 신규 콘텐츠 추가와 밸런스 조정이 용이한 확장성을 확보했습니다.
 </p>
 <div>
-<p><strong>주요 구현 내용:</strong></p>
+<p><strong>담당 개발 및 역할:</strong></p>
 <ul>
 <li><b>통합 상호작용 시스템</b>: 아이템, 상자, 건축물 등 모든 오브젝트와의 상호작용을 단일 인터페이스로 통일하고 서버 권위로 관리합니다.</li>
 <li><b>다채로운 플레이어 액션</b>: 이동, 달리기, 회피, 글라이딩 등 기본 동작과 무기별 공격, 팰 포획 등 다양한 액션을 구현했습니다.</li>
@@ -173,7 +173,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <a href="https://youtu.be/cXoGXADRAa8" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2025.08 (2일 게임잼)</p>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.08 (2D 게임잼)</p>
 <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트 (게임팀 3, AI팀 4)</p>
 <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
 <div align="center">
@@ -190,7 +190,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 'AI와의 융합'을 주제로 한 게임잼에서 <strong>우승한 프로젝트</strong>입니다. 플레이어의 자연어 음성 명령을 AI가 분석하여 게임 내 '팰'에게 작업을 지시하는 직관적인 플레이 방식을 구현했습니다.
 </p>
 <div>
-<p><strong>주요 구현 내용:</strong></p>
+<p><strong>담당 개발 및 역할:</strong></p>
 <ul>
 <li><b>AI-게임 통신 시스템</b>: FastAPI 서버와 Unreal Engine 클라이언트 간의 실시간 통신 파이프라인을 구축하고, 음성 데이터 전송 및 분석된 명령(JSON)을 수신하는 기능을 구현했습니다.</li>
 <li><b>음성 명령 라우팅 시스템</b>: 수신된 JSON 데이터를 분석하여 '모두', '아무나', '개인(특정 대상)' 등 적절한 대상에게 명령을 전달하는 로직을 개발했습니다.</li>
@@ -212,7 +212,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <a href="https://youtu.be/mgP-u5mvh1c" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 2024.12 (1개월)</p>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 24.12 (1M)</p>
 <p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 3인 팀 프로젝트</p>
 <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
 <div align="center">
@@ -229,7 +229,7 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 언리얼 엔진 학습 1개월 만에 100% 블루프린트와 엔진의 주요 기능들을 활용하여 레이드 전투의 핵심 시스템을 완성했습니다. 이를 통해 새로운 기술에 대한 빠른 학습 능력과 아이디어를 신속하게 구현하는 역량을 증명합니다.
 </p>
 <div>
-<p><strong>주요 구현 내용:</strong></p>
+<p><strong>담당 개발 및 역할:</strong></p>
 <ul>
 <li><b>FSM 기반의 정교한 전투 로직</b>: 플레이어의 스킬 시전 제약 및 대쉬 캔슬, 보스의 확률/사정거리 기반 '스킬 룰렛' 등 복잡한 전투 상호작용을 FSM으로 구현했습니다.</li>
 <li><b>확장성을 고려한 데이터 주도 설계</b>: 공용 <code>Base Skill Class</code>와 데이터 테이블을 활용해, 코드 수정 없이 스킬의 데미지, 쿨타임, 상태 이상 등을 유연하게 관리하고 추가할 수 있도록 설계했습니다.</li>
