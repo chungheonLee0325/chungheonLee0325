@@ -67,52 +67,6 @@
 ## 🚀 주요 프로젝트 (Main Projects)
 <table width="100%" border="0" style="border:none; border-collapse: collapse;">
 <!-- ================================================================================================================= -->
-<!-- 프로젝트 1: VALORANT -->
-<tr style="border-bottom: 1px solid #d0d7de;">
-<!-- 왼쪽: 이미지 및 영상 링크 -->
-<td width="45%" valign="top" style="padding:15px;">
-<a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank">
-<img src="https://github.com/chungheonLee0325/VALORANT/raw/main/Doc/Gifs/VALORITH_Overview.gif" alt="VALORANT Gameplay GIF" width="100%"/>
-</a>
-<p align="center" style="margin-top: 10px;">
-<a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank"><b>🎥 시연 영상 보기</b></a>
-</p>
-<hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.05 ~ 25.06 (2M)</p>
-<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트</p>
-<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
-<div align="center">
-<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/GAS-F85A5A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multiplayer-blue?style=for-the-badge"/>
-</div>
-</td>
-<!-- 오른쪽: 상세 설명 -->
-<td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">VALORANT (Multiplay Hypher FPS 게임)</h3>
-<p align="center" style="color: #57606a;">
-GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
-</p>
-<p>
-4종의 에이전트가 가진 12개의 스킬을 단일 프레임워크로 구현하는 것을 목표로 삼았습니다. 상점/경제 및 스파이크 설치/해체 등 발로란트의 핵심 게임 로직을 완성도 높게 구현했습니다.
-</p>
-<div>
-<p><strong>담당 개발 및 역할:</strong></p>
-<ul>
-<li><b>모듈화된 어빌리티 설계</b>: 준비→대기→실행 상태머신을 기반으로 후속입력, 투사체, 장판형 스킬 모듈을 표준화하여 확장성을 확보했습니다.</li>
-<li><b>다양한 스킬 메커니즘 구현</b>: 즉발형(Jett), 후속입력형(KAY/O) 등 여러 에이전트의 스킬을 공통 시스템 내에서 구현했습니다.</li>
-<li><b>핵심 게임 루프 구축</b>: 스파이크 상태 머신과 상점/경제 시스템을 라운드 흐름에 유기적으로 결합했습니다.</li>
-<li><b>안정적인 동기화 구조</b>: 서버 권위 구조와 태그 기반 입력 라우팅을 통해 클라이언트-서버 간 동기화 및 검증 로직을 단순화했습니다.</li>
-</ul>
-</div>
-<p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>📁 Repository README</b></a>
-&nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/VALORANT/wiki" target="_blank"><b>🔗 Tech Docs</b></a>
-</p>
-</td>
-</tr>
-<!-- ================================================================================================================= -->
 <!-- 프로젝트 2: Sonheim -->
 <tr style="border-bottom: 1px solid #d0d7de;">
 <!-- 왼쪽: 이미지 및 영상 링크 -->
@@ -157,6 +111,53 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>📁 Repository README</b></a>
 &nbsp;|&nbsp;
 <a href="https://github.com/chungheonLee0325/Sonheim/wiki" target="_blank"><b>🔗 Tech Docs </b></a>
+</p>
+</td>
+</tr>
+
+<!-- ================================================================================================================= -->
+<!-- 프로젝트 1: VALORANT -->
+<tr style="border-bottom: 1px solid #d0d7de;">
+<!-- 왼쪽: 이미지 및 영상 링크 -->
+<td width="45%" valign="top" style="padding:15px;">
+<a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank">
+<img src="https://github.com/chungheonLee0325/VALORANT/raw/main/Doc/Gifs/VALORITH_Overview.gif" alt="VALORANT Gameplay GIF" width="100%"/>
+</a>
+<p align="center" style="margin-top: 10px;">
+<a href="https://www.youtube.com/watch?v=Ym0MJUSHHbc" target="_blank"><b>🎥 시연 영상 보기</b></a>
+</p>
+<hr>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.05 ~ 25.06 (2M)</p>
+<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 7인 팀 프로젝트</p>
+<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/GAS-F85A5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multiplayer-blue?style=for-the-badge"/>
+</div>
+</td>
+<!-- 오른쪽: 상세 설명 -->
+<td width="55%" valign="top" style="padding:15px;">
+<h3 align="center">VALORANT (Multiplay Hypher FPS 게임)</h3>
+<p align="center" style="color: #57606a;">
+GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
+</p>
+<p>
+4종의 에이전트가 가진 12개의 스킬을 단일 프레임워크로 구현하는 것을 목표로 삼았습니다. 상점/경제 및 스파이크 설치/해체 등 발로란트의 핵심 게임 로직을 완성도 높게 구현했습니다.
+</p>
+<div>
+<p><strong>담당 개발 및 역할:</strong></p>
+<ul>
+<li><b>모듈화된 어빌리티 설계</b>: 준비→대기→실행 상태머신을 기반으로 후속입력, 투사체, 장판형 스킬 모듈을 표준화하여 확장성을 확보했습니다.</li>
+<li><b>다양한 스킬 메커니즘 구현</b>: 즉발형(Jett), 후속입력형(KAY/O) 등 여러 에이전트의 스킬을 공통 시스템 내에서 구현했습니다.</li>
+<li><b>핵심 게임 루프 구축</b>: 스파이크 상태 머신과 상점/경제 시스템을 라운드 흐름에 유기적으로 결합했습니다.</li>
+<li><b>안정적인 동기화 구조</b>: 서버 권위 구조와 태그 기반 입력 라우팅을 통해 클라이언트-서버 간 동기화 및 검증 로직을 단순화했습니다.</li>
+</ul>
+</div>
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/VALORANT" target="_blank"><b>📁 Repository README</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/VALORANT/wiki" target="_blank"><b>🔗 Tech Docs</b></a>
 </p>
 </td>
 </tr>
