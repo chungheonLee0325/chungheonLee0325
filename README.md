@@ -57,7 +57,7 @@
 | 문서 | 역할 | 내용 |
 | :--- | :--- | :--- |
 | 📋 **Project Gallery** | **Root (전체 개요)** | 주요 프로젝트 목록, 핵심 역량 요약 |
-| 📁 Repository README | What (개요) | 프로젝트 요, 데모 영상, 핵심 기능, 아키텍처 |
+| 📁 Repository README | What (개요) | 프로젝트 개요, 데모 영상, 핵심 기능, 아키텍처 |
 | 🔗 Tech Docs | How & Why (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
 
 
@@ -66,8 +66,8 @@
 ## 📝 기술 아티클
 
 <div>
-<h4>UE5 개발 중 마주친 문제들의 원인 분석과 해결 과정</h4>
-<p>단순 구현이 아닌, 엔진 소스코드 기반으로 근본 원인을 파악합니다.</p>
+  <h4>UE5 개발 중 마주친 문제들의 원인 분석과 해결 과정</h4>
+  <p>단순 구현이 아닌, 엔진 소스코드 기반으로 근본 원인을 파악합니다.</p>
 </div>
 
 | 아티클 | 내용 |
@@ -75,9 +75,11 @@
 | [AnimNotifyState 인스턴스 공유 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/animnotifystate-instance-sharing.md) | 여러 캐릭터가 같은 NotifyState 인스턴스를 공유해서 생기는 문제와 해결 |
 | [Fast Array로 인벤토리 동기화하기](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/fast-array-inventory.md) | TMap 리플리케이션 불가 문제, FFastArraySerializer로 델타 동기화 구현 |
 | [Listen Server에서 소켓 기반 공격이 실패하는 이유](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/listen-server-lod-socket.md) | LOD가 소켓 위치 계산에 미치는 영향과 SetForcedLOD 해결책 |
+| [BindWidget vs GetWidgetFromName](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/bindwidget-vs-getwidgetfromname.md) | GetWidgetFromName의 O(N) 트리 순회 비용, BindWidget이 효율적인 이유 |
+| [UScrollBox 버튼 드래그 스크롤 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag.md) | Slate 이벤트 버블링과 FReply, PreciseClick 원리<br><br>**심화:** [터치와 마우스의 엔진 레벨 동작 차이](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag/touch-vs-mouse.md) |
 
 <p align="center">
-<a href="https://github.com/chungheonLee0325/ue5-troubleshooting" target="_blank"><b>📁 전체 보기</b></a>
+  <a href="https://github.com/chungheonLee0325/ue5-troubleshooting" target="_blank"><b>📁 전체 보기</b></a>
 </p>
 
 ---
