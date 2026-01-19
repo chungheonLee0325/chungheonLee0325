@@ -38,14 +38,14 @@
 ## 🏢 업무 경력 (Work Experience)
 
 <div align="center">
-<h4>총 3년 3개월의 실무 경험</h4>
+  <h4>총 3년 3개월+ (재직중)</h4>
 </div>
 
 | 회사 | 기간 | 직무 및 주요 업무 | 사용 기술 |
 | :---: | :---: | :--- | :---: |
-| **주식회사 스페이스프로브** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
-| **주식회사 엠디에스인텔리전스** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
-
+| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11.02 ~ 현재 | **MMORPG UE5 클라이언트(UI) 개발 (라이브 서비스)** <br> • UI 신규 기능 개발 (PartyHUD, 길드창고 정렬, 월드던전 채팅, 크로스서버 UI 등) <br> • 기존 UI 시스템 유지보수 및 라이브 이슈 대응 (Party/Quest/던전/배틀로얄) <br> • 아트팀 협업용 에디터 플러그인 개발 (BindWidget Visualizer) <br> • 레벨 전환 간헐 크래시(수명 불일치/Use-After-Free) 분석·해결 및 가이드라인/체크리스트 수립 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
+| **모바일 MMORPG 개발사 (비공개)** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
+| **차량용 SW/툴 개발사 (비공개)** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
 ---
 
 ### 💡 프로젝트 탐색 가이드
