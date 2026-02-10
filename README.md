@@ -76,7 +76,7 @@
 | [Fast Array로 인벤토리 동기화하기](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/fast-array-inventory.md) | TMap 리플리케이션 불가 문제, FFastArraySerializer로 델타 동기화 구현 |
 | [Listen Server에서 소켓 기반 공격이 실패하는 이유](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/listen-server-lod-socket.md) | LOD가 소켓 위치 계산에 미치는 영향과 SetForcedLOD 해결책 |
 | [BindWidget vs GetWidgetFromName](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/bindwidget-vs-getwidgetfromname.md) | GetWidgetFromName의 O(N) 트리 순회 비용, BindWidget이 효율적인 이유 |
-| [UScrollBox 버튼 드래그 스크롤 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag.md) | Slate 이벤트 버블링과 FReply, PreciseClick 원리<br><br>**심화:** [터치와 마우스의 엔진 레벨 동작 차이](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag/touch-vs-mouse.md) |
+| [UScrollBox 버튼 드래그 스크롤 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag.md) | Slate 이벤트 버블링과 FReply, PreciseClick 원리<br><br>**심화:** [터치와 마우스의 엔진 레벨 동작 차이](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-touch-vs-mouse.md) |
 
 <p align="center">
   <a href="https://github.com/chungheonLee0325/ue5-troubleshooting" target="_blank"><b>📁 전체 보기</b></a>
