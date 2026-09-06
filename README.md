@@ -182,7 +182,62 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </p>
 </td>
 </tr>
+<!-- ================================================================================================================= -->
+<!-- 프로젝트: Fishing Is Good -->
+<tr style="border-bottom: 1px solid #d0d7de;">
+<!-- 왼쪽: 이미지 및 영상 링크 -->
+<td width="45%" valign="top" style="padding:15px;">
+<a href="https://chungheonlee0325.github.io/FishingIsGood/Media/videos.html#unity" target="_blank">
+<img src="https://github.com/chungheonLee0325/FishingIsGood/raw/main/Media/unity-gameplay-preview.gif" alt="Fishing Is Good Unity Gameplay" width="100%"/>
+</a>
 
+<p align="center" style="margin-top: 10px;">
+<a href="https://chungheonlee0325.github.io/FishingIsGood/Media/videos.html#unity" target="_blank"><b>🎥 웹에서 영상 보기</b></a>
+</p>
+
+<hr>
+
+<p style="margin-bottom: 5px;">📌 <strong>형태:</strong> 개인 프로토타입</p>
+<p style="margin-bottom: 5px;">👤 <strong>구성:</strong> 개인 개발</p>
+<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%20Prototype-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</div>
+</td>
+
+<!-- 오른쪽: 상세 설명 -->
+<td width="55%" valign="top" style="padding:15px;">
+<h3 align="center">Fishing Is Good (HTML/Unity Prototype)</h3>
+
+<p align="center" style="color: #57606a;">
+전통적인 낚시 미니게임보다, 물고기를 지켜보는 재미와 최소한의 개입에 초점을 둔 탑다운 낚시 프로토타입
+</p>
+
+<p>
+방치형 게임에 맞게 반복 입력이나 타이밍 조작을 줄이고, 물고기의 움직임을 지켜보다가 찌를 놓을 위치를 고르는 플레이를 만들었습니다.
+이를 위해 물고기의 이동과 반응을 빠르게 반복 검증할 수 있는 HTML 프로토타입을 먼저 만들고, 직접 플레이하며 남길 규칙을 정한 뒤 Unity에서 게임플레이와 수중 연출로 구현했습니다.
+</p>
+
+<div>
+<p><strong>주요 작업:</strong></p>
+<ul>
+<li><b>행동 검증</b>: HTML 프로토타입에서 이동, 선회, 회피, 접근, 먹이 반응과 찌 배치에 따른 반응을 빠르게 비교하며 조정했습니다.</li>
+<li><b>낚시 흐름</b>: 찌 배치 → 관심·접근 → 입질 → 회수 → 낚시 가방 도착 → 점수·수량 집계까지 구현했습니다.</li>
+<li><b>시각 표현</b>: 어종별 메시 생성과 움직임 셰이더를 구현하고, 수면 굴절·그림자·착수 파문·렌즈 물방울·수중 카메라 전환을 제작했습니다.</li>
+<li><b>개발 방식</b>: AI를 구현 대안 탐색과 반복 작업에 활용하고, 실제 실행 결과를 보며 채택·수정·폐기할 요소를 결정했습니다.</li>
+</ul>
+</div>
+
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/FishingIsGood" target="_blank"><b>📁 Repository README</b></a>
+&nbsp;|&nbsp;
+<a href="https://chungheonlee0325.github.io/FishingIsGood/HTML/" target="_blank"><b>🌐 Browser Prototype</b></a>
+</p>
+</td>
+</tr>
 <!-- ================================================================================================================= -->
 <!-- 프로젝트 3: Tazan -->
 <tr>
