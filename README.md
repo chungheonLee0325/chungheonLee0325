@@ -84,11 +84,6 @@
 
 ## 🧰 Developer Tools & R&D
 
-<div>
-  <h4>게임 기능 구현을 넘어, Unreal Engine 개발 워크플로 자체를 개선하는 도구를 만듭니다.</h4>
-  <p>에디터 자동화, 반복 작업 제거, AI Agent와 Unreal Editor의 연결을 실제 게임 개발 흐름에서 검증하고 있습니다.</p>
-</div>
-
 <table width="100%" border="0" style="border:none; border-collapse: collapse;">
 <tr style="border-bottom: 1px solid #d0d7de;">
 <td width="45%" valign="top" style="padding:15px;">
@@ -97,58 +92,33 @@
 <img src="https://github.com/chungheonLee0325/AgentMcp/raw/main/Docs/Images/dungeon_result.jpg" alt="AgentMcp Dungeon UI Case Study" width="100%"/>
 </a>
 
-<p align="center" style="margin-top: 10px;">
-<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank"><b>📁 Repository 보기</b></a>
-</p>
-
-<hr>
-
-<p style="margin-bottom: 5px;">📌 <strong>형태:</strong> Unreal Engine Editor Plugin</p>
-<p style="margin-bottom: 5px;">👤 <strong>구성:</strong> 개인 개발 / R&D</p>
-<p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-AI_Agent-6E56CF?style=for-the-badge"/>
-</div>
-
 </td>
 
 <td width="55%" valign="top" style="padding:15px;">
 
-<h3 align="center">AgentMcp (UE5.5 AI Agent Workflow Plugin)</h3>
+<h3 align="center">AgentMcp — UE5.5 AI Agent Workflow Plugin</h3>
 
-<p align="center" style="color: #57606a;">
-AI Agent가 Unreal 프로젝트를 분석하고, 에디터를 수정하고, 실행 결과까지 검증할 수 있도록 만든 MCP 플러그인
+<p>
+<strong>UE 5.8의 MCP / Agent Skill 개념을 UE 5.5 환경에 맞게 재구현하고,
+실제 게임 개발 Workflow로 확장한 Editor Plugin입니다.</strong>
 </p>
 
 <p>
-Unreal Engine 5.5 에디터 내부에 MCP 서버를 구축하여 Codex·Claude Code 같은 Coding Agent가
-프로젝트를 <strong>Inspect → Edit → Compile → PIE → Capture / Log → Review</strong> 흐름으로 직접 다룰 수 있도록 구현했습니다.
-단순 원격 제어보다 실제 게임 개발 작업을 Agent가 끝까지 수행하고 결과를 확인하는 워크플로에 초점을 두었습니다.
+단순한 Unreal 원격 제어를 넘어, 프로젝트별 <code>SKILL.md</code>를
+<strong>동적으로 로드·Override</strong>하고 Agent가
+<strong>UMG 제작 → Compile → PIE → Capture / Log → Review</strong>까지 반복할 수 있도록 구성했습니다.
 </p>
 
-<div>
-<p><strong>주요 구현 내용:</strong></p>
 <ul>
-<li><b>Reflection 기반 Toolset</b>: <code>static UFUNCTION</code>을 기반으로 Tool 이름·인자·설명·결과 JSON Schema를 생성하여 Unreal 기능을 MCP Tool로 확장할 수 있도록 설계했습니다.</li>
-<li><b>Editor Authoring Workflow</b>: Level/Actor/Asset/DataTable/Blueprint/UMG 편집과 C++·Blueprint Compile, PIE, Log, Viewport Capture를 하나의 검증 루프로 연결했습니다.</li>
-<li><b>UMG Production Workflow</b>: Widget Tree와 Named Slot, C++ <code>BindWidget</code> 계약을 분석하고 Widget Blueprint 생성·수정, 재사용 컴포넌트, DataTable·Theme Data Asset 기반 UI 제작 흐름을 구축했습니다.</li>
-<li><b>Agent Skills</b>: <code>umg-authoring</code>, <code>ui-style-system</code>, <code>ui-art-requests</code> 등 작업 규칙을 Markdown Skill로 제공하여 Codex와 Claude Code가 동일한 프로젝트 규칙을 사용할 수 있게 했습니다.</li>
-<li><b>검증과 안전성</b>: Undo 가능한 Transaction, 파괴 작업 Dry-run, PIE 중 Write 제한, 프로젝트 콘텐츠 범위 제한 등 실제 에디터 작업에 필요한 안전 장치를 적용했습니다.</li>
+<li><b>Dynamic Agent Skills</b> — Codex·Claude Code가 공유하는 프로젝트별 Skill과 런타임 로딩</li>
+<li><b>UMG-focused Authoring</b> — Widget Tree·<code>BindWidget</code> 분석, Widget Blueprint·DataTable·Theme 기반 UI 제작</li>
+<li><b>Build → Run → Review</b> — 실제 실행 결과를 확인하고 다시 수정하는 Agent 검증 루프</li>
 </ul>
-</div>
-
-<p>
-Dungeon UI를 AgentMcp만으로 제작·리뷰하는 Case Study를 포함하며,
-UE 5.5.4 환경에서 저장소 Smoke Test <strong>216 checks</strong>를 통과하도록 검증했습니다.
-</p>
 
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank"><b>📁 Repository README</b></a>
+<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank"><b>📁 Repository</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.md" target="_blank"><b>🔗 Dungeon UI Case Study</b></a>
+<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.md" target="_blank"><b>🔗 Case Study</b></a>
 </p>
 
 </td>
