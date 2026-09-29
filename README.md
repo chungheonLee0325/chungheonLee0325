@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 안녕하세요, Unreal Client Engineer 이충헌입니다</h1>
-<h3>🎮 "왜?"라고 질문하는 개발자, 이충헌입니다.</h3>
+<h3>복잡한 게임 시스템을 구조화하고, 반복되는 문제를 도구와 구조 개선으로 해결합니다.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=C%2B%2B+%2B+Unreal+Engine+Developer;Gameplay+%26+Multiplayer+Systems;Unreal+Editor+Tooling)](https://git.io/typing-svg)
 
@@ -39,7 +39,7 @@
 
 | 회사 | 기간 | 직무 및 주요 업무 | 사용 기술 |
 | :---: | :---: | :--- | :---: |
-| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11.02 ~ 현재 | **MMORPG UE5 클라이언트 콘텐츠/UI 개발 (라이브 서비스)** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 상태 기반 콘텐츠/UI 구현 <br> • 반복 입력 이슈를 공통 Input Lock 정책으로 정리하고, GameService·Delegate 기반으로 UI 로직 분리 <br> • BindWidget Visualizer·GCViewer 등 반복 작업과 디버깅을 줄이는 Editor Tool 개발 <br> • UObject 수명 불일치·Use-After-Free 크래시 분석 및 재발 방지 가이드 정리 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
+| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11.02 ~ 현재 | **UE5 MMORPG 클라이언트 콘텐츠/UI 개발** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 연동 콘텐츠 구현 <br> • 라이브 UI 유지보수와 공통 구조 개선 <br> • Editor Tool 개발 및 크래시·객체 수명 문제 분석 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
 | **모바일 MMORPG 개발사** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
 | **차량용 SW/툴 개발사** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
 ---
