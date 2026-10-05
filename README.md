@@ -141,8 +141,8 @@
 <a href="https://www.youtube.com/watch?v=TDRRWp6M_9E" target="_blank"><b>🎥 시연 영상 보기</b></a>
 </p>
 <hr>
-<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.03 ~ 25.04 (1M) + 25.06 ~ 25.09 (3M)</p>
-<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 2인 팀 프로젝트</p>
+<p style="margin-bottom: 5px;">📅 <strong>기간:</strong> 25.03 ~ 25.09 / 26.09 ~ 현재</p>
+<p style="margin-bottom: 5px;">👥 <strong>구성:</strong> 초기 2인 팀 → 개인 확장 개발</p>
 <p style="margin-bottom: 5px;"><strong>🔧 주요 기술:</strong></p>
 <div align="center">
 <img src="https://img.shields.io/badge/Unreal_Engine-5.5-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
@@ -151,23 +151,20 @@
 </td>
 <!-- 오른쪽: 상세 설명 -->
 <td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">Sonheim (Multiplay 액션 RPG)</h3>
+<h3 align="center">Sonheim (Multiplayer 3D Action Adventure)</h3>
 <p align="center" style="color: #57606a;">
-데이터 기반 멀티플레이 환경에서 다채로운 스킬과 액션을 구현한 RPG
+서버 권위 멀티플레이와 데이터 기반 콘텐츠 구조를 중심으로 확장한 3D 액션 어드벤처
 </p>
 <p>
-2인 팀으로 초기 기반(1개월)을 구축한 후, 단독으로 3개월간 시스템을 심화 개발했습니다. 서버 권위 멀티플레이 환경을 기반으로, 전투·성장·자원 등 모든 핵심 시스템을 데이터 테이블 중심으로 구축하여 코드 수정 없이 신규 콘텐츠 추가와 밸런스 조정이 용이한 확장성을 확보했습니다.
+2인 팀으로 핵심 기반을 구축한 뒤 개인 확장 개발을 이어가며, 전투·아이템·제작·팰 시스템부터 분기 던전과 보스 콘텐츠까지 하나의 멀티플레이 게임플레이 구조로 확장했습니다.
 </p>
 <div>
 <p><strong>담당 개발 및 역할:</strong></p>
 <ul>
-<li><b>통합 상호작용 시스템</b>: 아이템, 상자, 건축물 등 모든 오브젝트와의 상호작용을 단일 인터페이스로 통일하고 서버 권위로 관리합니다.</li>
-<li><b>다채로운 플레이어 액션</b>: 이동, 달리기, 회피, 글라이딩 등 기본 동작과 무기별 공격, 팰 포획 등 다양한 액션을 구현했습니다.</li>
-<li><b>깊이 있는 전투 시스템</b>: 피아식별(IFF), 스킬, 투사체, 넉백/히트스톱, 속성·약점 시스템 등 복합적인 전투 메커니즘을 적용했습니다.</li>
-<li><b>핵심 게임 루프 구현</b>: 자원 채집부터 제작까지의 루프, 팰 포획 및 파트너 팰과의 전투 시스템을 구축했습니다.</li>
-<li><b>서버 권위 인벤토리 & 장비 시스템</b>: 아이템 획득/사용, 장비 장착 및 스탯 실시간 반영, 상자 보관 등 모든 기능을 서버 권위로 동기화하고 클라이언트 예측으로 반응성을 확보했습니다.</li>
-<li><b>데이터 주도형 설계</b>: 몬스터, 플레이어, 아이템, 스킬 등 대부분의 게임 요소를 데이터 테이블로 관리하여 개발 효율성을 극대화했습니다.</li>
-<li><b>안정적인 네트워킹</b>: 서버 권위 구조를 기반으로 OnRep 보정, PlayerController RPC 중계를 통해 권한 및 거리 검증을 일원화했습니다.</li>
+<li><b>멀티플레이 게임플레이</b>: RPC·Replication·FastArray를 기반으로 서버 권위 상태를 동기화하고, 인벤토리 등 반응성이 필요한 구간에는 제한적 클라이언트 예측과 보정을 적용했습니다.</li>
+<li><b>핵심 시스템</b>: 공통 상호작용, Skill/Combat, Inventory·Equipment·Shared Container, 협동 제작, Pal Capture·Partner lifecycle을 구현했습니다.</li>
+<li><b>데이터 기반 콘텐츠</b>: DataTable·DataAsset·GameplayTag를 활용해 분기 던전의 Event/Condition/Action 흐름과 Boss Pattern·Telegraph를 콘텐츠 데이터로 구성했습니다.</li>
+<li><b>UI·검증 구조</b>: UMG의 상태 전달 경계를 정리하고, Dungeon/Boss 정의에 구조 검증과 반복 시나리오 검증을 추가해 콘텐츠 확장 시 오류를 조기에 확인하도록 구성했습니다.</li>
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
