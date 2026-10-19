@@ -1,17 +1,16 @@
 <div align="center">
 
 <h1>👋 안녕하세요, Unreal Client Engineer 이충헌입니다</h1>
-<h3>복잡한 게임 시스템을 구조화하고, 반복되는 문제를 도구와 구조 개선으로 해결합니다.</h3>
+<h3>게임플레이·UI의 상태 흐름을 설계하고, 반복 작업은 도구와 측정으로 개선합니다.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=C%2B%2B+%2B+Unreal+Engine+Developer;Gameplay+%26+Multiplayer+Systems;Unreal+Editor+Tooling)](https://git.io/typing-svg)
 
 </div>
 
-<br clear="left"/> <p align="center">
-단순히 기능을 구현하는 것을 넘어, **"더 나은 구조는 무엇일까?"** 를 항상 고민합니다.<br> 
-견고하고 확장 가능한 아키텍처를 설계하는 것에 큰 흥미를 느끼며, 특히 복잡한 게임 시스템이 유기적으로 동작할 때 가장 큰 희열을 느낍니다.<br>
-효율적인 구조 설계를 통해 <strong>유지보수와 사용자 경험</strong>을 모두 잡는 것을 목표로 합니다.<br>
-동료와 함께 배우고 성장하며 즐겁게 게임을 만드는 개발자입니다.
+<p align="center">
+Unreal Engine C++ 기반 클라이언트·게임플레이 개발을 중심으로 작업합니다.<br>
+서버 상태 수신부터 클라이언트 데이터 처리와 UMG/Slate 반영까지 연결하고,<br>
+객체 수명·UI 입력·성능 문제를 코드 구조와 실제 측정 결과로 검토합니다.
 </p>
 
 <div align="center">
@@ -23,114 +22,9 @@
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
-
-<div align="center">
-
-| Languages | Engines | Game Development Specialties |
-| :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) <br> ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) <br> ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) | `Gameplay Systems` `Multiplayer / Replication` <br> `UMG / Slate UI` `Unreal Editor Tooling` <br> `Data-Driven Design` `Gameplay Ability System` |
-
-</div>
-
----
-
-## 🏢 업무 경력 (Work Experience)
-
-| 회사 | 기간 | 직무 및 주요 업무 | 사용 기술 |
-| :---: | :---: | :--- | :---: |
-| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11.02 ~ 현재 | **UE5 MMORPG 클라이언트 콘텐츠/UI 개발** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 연동 콘텐츠 구현 <br> • 라이브 UI 유지보수와 공통 구조 개선 <br> • Editor Tool 개발 및 크래시·객체 수명 문제 분석 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
-| **모바일 MMORPG 개발사** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
-| **차량용 SW/툴 개발사** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
----
-
-### 💡 프로젝트 탐색 가이드
-<!-- [현재 페이지에 맞는 설명의 주석을 해제하여 사용하세요] -->
-현재 보고 계신 이 페이지는 주요 프로젝트를 소개하는 '갤러리' 입니다. 마음에 드는 프로젝트를 발견했다면, 아래 단계를 따라 깊게 탐색해 보세요.
-<!-- README 설명: 이 README는 프로젝트의 핵심을 요약한 '쇼케이스'입니다. 전체적인 개요를 파악한 뒤, 더 깊은 기술적 내용이 궁금하다면 Tech Docs를 확인해 보세요. -->
-<!-- Tech Docs 설명: 이 기술 문서는 프로젝트의 상세 구현을 다루는 '심층 분석' 자료입니다. README에서 생긴 궁금증을 이곳에서 코드를 통해 확인해 보세요. -->
-
-| 문서 | 역할 | 내용 |
-| :--- | :--- | :--- |
-| 📋 **Project Gallery** | **Root (전체 개요)** | 주요 프로젝트 목록, 핵심 역량 요약 |
-| 📁 Repository README | What (개요) | 프로젝트 개요, 데모 영상, 핵심 기능, 아키텍처 |
-| 🔗 Tech Docs | How & Why (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
-
-
----
-
-## 📝 기술 아티클
-
-<div>
-  <h4>UE5 개발 중 마주친 문제들의 원인 분석과 해결 과정</h4>
-  <p>단순 구현이 아닌, 엔진 소스코드 기반으로 근본 원인을 파악합니다.</p>
-</div>
-
-| 아티클 | 내용 |
-| :--- | :--- |
-| [AnimNotifyState 인스턴스 공유 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/animnotifystate-instance-sharing.md) | 여러 캐릭터가 같은 NotifyState 인스턴스를 공유해서 생기는 문제와 해결 |
-| [Fast Array로 인벤토리 동기화하기](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/fast-array-inventory.md) | TMap 리플리케이션 불가 문제, FFastArraySerializer로 델타 동기화 구현 |
-| [Listen Server에서 소켓 기반 공격이 실패하는 이유](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/listen-server-lod-socket.md) | LOD가 소켓 위치 계산에 미치는 영향과 SetForcedLOD 해결책 |
-| [BindWidget vs GetWidgetFromName](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/bindwidget-vs-getwidgetfromname.md) | GetWidgetFromName의 O(N) 트리 순회 비용, BindWidget이 효율적인 이유 |
-| [UScrollBox 버튼 드래그 스크롤 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag.md) | Slate 이벤트 버블링과 FReply, PreciseClick 원리<br><br>**심화:** [터치와 마우스의 엔진 레벨 동작 차이](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-touch-vs-mouse.md) |
-
-<p align="center">
-  <a href="https://github.com/chungheonLee0325/ue5-troubleshooting" target="_blank"><b>📁 전체 보기</b></a>
-</p>
-
----
-
-
-
-## 🧰 Developer Tools & R&D
+## 대표 작업 — Gameplay / Editor Tooling
 
 <table width="100%" border="0" style="border:none; border-collapse: collapse;">
-<tr style="border-bottom: 1px solid #d0d7de;">
-<td width="45%" valign="top" style="padding:15px;">
-
-<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank">
-<img src="https://github.com/chungheonLee0325/AgentMcp/raw/main/Docs/Images/dungeon_result.jpg" alt="AgentMcp Dungeon UI Case Study" width="100%"/>
-</a>
-
-</td>
-
-<td width="55%" valign="top" style="padding:15px;">
-
-<h3 align="center">AgentMcp — UE5.5 AI Agent Workflow Plugin</h3>
-
-<p>
-<strong>UE 5.8의 MCP / Agent Skill 개념을 UE 5.5 환경에 맞게 재구현하고,
-실제 게임 개발 Workflow로 확장한 Editor Plugin입니다.</strong>
-</p>
-
-<p>
-단순한 Unreal 원격 제어를 넘어, 프로젝트별 <code>SKILL.md</code>를
-<strong>동적으로 로드·Override</strong>하고 Agent가
-<strong>UMG 제작 → Compile → PIE → Capture / Log → Review</strong>까지 반복할 수 있도록 구성했습니다.
-</p>
-
-<ul>
-<li><b>Dynamic Agent Skills</b> — Codex·Claude Code가 공유하는 프로젝트별 Skill과 런타임 로딩</li>
-<li><b>UMG-focused Authoring</b> — Widget Tree·<code>BindWidget</code> 분석, Widget Blueprint·DataTable·Theme 기반 UI 제작</li>
-<li><b>Build → Run → Review</b> — 실제 실행 결과를 확인하고 다시 수정하는 Agent 검증 루프</li>
-</ul>
-
-<p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank"><b>📁 Repository</b></a>
-&nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.md" target="_blank"><b>🔗 Case Study</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 주요 프로젝트 (Main Projects)
-<table width="100%" border="0" style="border:none; border-collapse: collapse;">
-<!-- ================================================================================================================= -->
-<!-- 프로젝트 2: Sonheim -->
 <tr style="border-bottom: 1px solid #d0d7de;">
 <!-- 왼쪽: 이미지 및 영상 링크 -->
 <td width="45%" valign="top" style="padding:15px;">
@@ -151,30 +45,127 @@
 </td>
 <!-- 오른쪽: 상세 설명 -->
 <td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">Sonheim (Multiplayer 3D Action Adventure)</h3>
-<p align="center" style="color: #57606a;">
-서버 권위 멀티플레이와 데이터 기반 콘텐츠 구조를 중심으로 확장한 3D 액션 어드벤처
-</p>
-<p>
-2인 팀으로 핵심 기반을 구축한 뒤 개인 확장 개발을 이어가며, 전투·아이템·제작·팰 시스템부터 분기 던전과 보스 콘텐츠까지 하나의 멀티플레이 게임플레이 구조로 확장했습니다.
-</p>
-<div>
-<p><strong>담당 개발 및 역할:</strong></p>
+<h3 align="center">Sonheim — UE5.5 Multiplayer Gameplay & UI</h3>
+<p align="center" style="color: #57606a;">서버 권위 게임플레이와 데이터 기반 콘텐츠, 클라이언트 화면 구조를 연결한 액션 어드벤처</p>
+
+<p>초기 2인 팀에서 전투·인벤토리·제작·포획 시스템을 구현한 뒤, 개인 개발로 도감·퀘스트·분기 던전·보스·월드맵·UI 프레임워크를 확장했습니다.</p>
+
+<p><strong>주요 구현:</strong></p>
 <ul>
-<li><b>멀티플레이 게임플레이</b>: RPC·Replication·FastArray를 기반으로 서버 권위 상태를 동기화하고, 인벤토리 등 반응성이 필요한 구간에는 제한적 클라이언트 예측과 보정을 적용했습니다.</li>
-<li><b>핵심 시스템</b>: 공통 상호작용, Skill/Combat, Inventory·Equipment·Shared Container, 협동 제작, Pal Capture·Partner lifecycle을 구현했습니다.</li>
-<li><b>데이터 기반 콘텐츠</b>: DataTable·DataAsset·GameplayTag를 활용해 분기 던전의 Event/Condition/Action 흐름과 Boss Pattern·Telegraph를 콘텐츠 데이터로 구성했습니다.</li>
-<li><b>UI·검증 구조</b>: UMG의 상태 전달 경계를 정리하고, Dungeon/Boss 정의에 구조 검증과 반복 시나리오 검증을 추가해 콘텐츠 확장 시 오류를 조기에 확인하도록 구성했습니다.</li>
+<li><b>게임플레이·네트워크</b>: Server RPC, OwnerOnly FastArray, 스킬 UObject 복제, GameState Snapshot으로 실행 권한과 복제 범위를 구분했습니다.</li>
+<li><b>콘텐츠 확장</b>: 게임플레이 이벤트를 도감·퀘스트 기록과 연결하고, 던전 Event/Action/Transition 및 보스 PatternClock·Telegraph를 데이터로 관리했습니다.</li>
+<li><b>UI 아키텍처</b>: 게임 상태 → Delegate/RepNotify → Presenter/ViewData → Widget 경로를 정리하고, <code>GameUIFramework</code>로 화면 레이어·입력 모드·팝업·재사용 정책을 분리했습니다.</li>
+<li><b>월드맵</b>: 플레이어별 탐험 안개를 미니맵·전체 지도에서 공유하고, 퀘스트·도감 위치와 빠른 이동 표석을 연동했습니다.</li>
+<li><b>성능 분석</b>: 1080p/RTX 2070 SUPER 환경에서 아이템 교환 이벤트 프레임 <b>32.6 → 17.1ms</b>, 인벤토리 열기 <b>57.5 → 22.1ms</b>를 측정했습니다. 수집 조건과 원인은 Wiki에 기록했습니다.</li>
 </ul>
-</div>
+
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>📁 Repository README</b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim"><b>Repository</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/Sonheim/wiki" target="_blank"><b>🔗 Tech Docs </b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/Home.md"><b>Tech Docs (01–21)</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/20_UI_Performance_Profiling.md"><b>UI 성능 분석</b></a>
 </p>
 </td>
 </tr>
+</table>
 
+---
+
+## 🧰 Developer Tools & R&D
+
+<table width="100%" border="0" style="border:none; border-collapse: collapse;">
+<tr style="border-bottom: 1px solid #d0d7de;">
+<td width="45%" valign="top" style="padding:15px;">
+
+<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank">
+<img src="https://github.com/chungheonLee0325/AgentMcp/raw/main/Docs/Images/dungeon_result.jpg" alt="AgentMcp Dungeon UI Case Study" width="100%"/>
+</a>
+
+</td>
+
+<td width="55%" valign="top" style="padding:15px;">
+
+<h3 align="center">AgentMcp — Unreal Editor MCP · Agent Skills</h3>
+
+<p><strong>UE 5.5·5.7에서 사용하는 Unreal Editor 플러그인으로, Claude Code·Codex가 프로젝트를 조사·수정·실행·검증할 수 있도록 MCP 도구와 작업별 Skill을 제공합니다.</strong></p>
+
+<p>UE 5.8의 실험적 MCP/Toolset 및 Agent Skill 개념을 참고해 기존 버전에서 별도로 구현했습니다. <code>SKILL.md</code> 작업 지침을 런타임에 읽고, 에디터 조사·수정·실행 도구와 함께 제공합니다.</p>
+
+<ul>
+<li><b>Dynamic Agent Skills</b> — 기본 Skill을 에디터에서 제공하고, 프로젝트별 <code>SKILL.md</code>를 런타임에 읽어 덮어쓰기. <code>umg-authoring</code>·<code>blueprint-graphs</code>·<code>perf-investigation</code> 등</li>
+<li><b>UMG / Blueprint</b> — Widget Tree·C++ <code>BindWidget</code> 검증, Widget Blueprint 및 Blueprint 노드 편집, Compile → PIE → Viewport/Log 확인</li>
+<li><b>UI Performance</b> — CSV·Unreal Insights Trace·<code>ProfileGPU</code>를 분석하고, 반복 실행 간 편차를 고려해 수정 전후 비교</li>
+<li><b>Editor AI Chat</b> — 에디터 내 채팅에서 계정 기반 에이전트를 호출하고 읽기/에셋/코드 권한 및 변경 승인 카드로 작업 범위 제어</li>
+</ul>
+
+<p>실제 Sonheim UI에서 기존에 측정하지 않았던 화면을 조사해 보관함 재생성 비용, Delegate 중복 구독, 알림 오류를 확인·수정한 과정을 기록했습니다.</p>
+
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/AgentMcp"><b>Repository</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/SonheimUiPerf.ko.md"><b>성능 조사 기록</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.ko.md"><b>UMG 제작 사례</b></a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ 기술 스택 (Tech Stack)
+
+<div align="center">
+
+| Languages | Engines | Game Development Specialties |
+| :---: | :---: | :---: |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) <br> ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) <br> ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) | `Gameplay Systems` `Multiplayer / Replication` <br> `UMG / Slate UI` `Unreal Editor Tooling` <br> `Data-Driven Design` `Gameplay Ability System` |
+
+</div>
+
+---
+
+## 🏢 업무 경력 (Work Experience)
+
+| 회사 | 기간 | 직무 및 주요 업무 | 사용 기술 |
+| :---: | :---: | :--- | :---: |
+| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11 ~ 2026.09 | **UE5 MMORPG 클라이언트 콘텐츠/UI 개발** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 연동 콘텐츠 구현 <br> • UMG/Slate UI 데이터 반영·입력 처리 정책 개선 <br> • Editor Tool 개발, UObject 수명·크래시 원인 분석 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
+| **모바일 MMORPG 개발사** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
+| **차량용 SW/툴 개발사** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
+---
+
+### 프로젝트 문서 안내
+
+이 페이지에서는 프로젝트별 핵심 구현을 소개합니다. 시연과 기능 구성은 **Repository README**, 구조·코드·기술 선택은 **Tech Docs**에서 확인할 수 있습니다.
+
+---
+
+## 📝 기술 아티클
+
+<div>
+  <h4>UE5 개발 중 마주친 문제들의 원인 분석과 해결 과정</h4>
+  <p>구현 중 확인한 Unreal Engine 동작과 재현·수정 과정을 정리했습니다.</p>
+</div>
+
+| 아티클 | 내용 |
+| :--- | :--- |
+| [AnimNotifyState 인스턴스 공유 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/animnotifystate-instance-sharing.md) | 여러 캐릭터가 같은 NotifyState 인스턴스를 공유해서 생기는 문제와 해결 |
+| [Fast Array로 인벤토리 동기화하기](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/fast-array-inventory.md) | TMap 리플리케이션 불가 문제, FFastArraySerializer로 델타 동기화 구현 |
+| [Listen Server에서 소켓 기반 공격이 실패하는 이유](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/listen-server-lod-socket.md) | LOD가 소켓 위치 계산에 미치는 영향과 SetForcedLOD 해결책 |
+| [BindWidget vs GetWidgetFromName](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/bindwidget-vs-getwidgetfromname.md) | GetWidgetFromName의 O(N) 트리 순회 비용, BindWidget이 효율적인 이유 |
+| [UScrollBox 버튼 드래그 스크롤 문제](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-button-drag.md) | Slate 이벤트 버블링과 FReply, PreciseClick 원리<br><br>**심화:** [터치와 마우스의 엔진 레벨 동작 차이](https://github.com/chungheonLee0325/ue5-troubleshooting/blob/main/scrollbox-touch-vs-mouse.md) |
+
+<p align="center">
+  <a href="https://github.com/chungheonLee0325/ue5-troubleshooting" target="_blank"><b>📁 전체 보기</b></a>
+</p>
+
+---
+
+
+
+## 그 외 프로젝트 (Other Projects)
+<table width="100%" border="0" style="border:none; border-collapse: collapse;">
 <!-- ================================================================================================================= -->
 <!-- 프로젝트 1: VALORANT -->
 <tr style="border-bottom: 1px solid #d0d7de;">
@@ -203,15 +194,15 @@
 GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </p>
 <p>
-4종의 에이전트가 가진 12개의 스킬을 단일 프레임워크로 구현하는 것을 목표로 삼았습니다. 상점/경제 및 스파이크 설치/해체 등 발로란트의 핵심 게임 로직을 완성도 높게 구현했습니다.
+4종의 에이전트와 12개 스킬을 공통 Ability 구조로 구현했습니다. Spike 설치·해체 상태 머신과 라운드별 상점·경제 처리를 서버 판정 경로에 연결했습니다.
 </p>
 <div>
 <p><strong>담당 개발 및 역할:</strong></p>
 <ul>
-<li><b>모듈화된 어빌리티 설계</b>: 준비→대기→실행 상태머신을 기반으로 후속입력, 투사체, 장판형 스킬 모듈을 표준화하여 확장성을 확보했습니다.</li>
+<li><b>모듈화된 어빌리티 설계</b>: 준비→대기→실행 상태 흐름과 후속 입력·투사체·장판형 스킬의 공통 실행 경로를 구성했습니다.</li>
 <li><b>다양한 스킬 메커니즘 구현</b>: 즉발형(Jett), 후속입력형(KAY/O) 등 여러 에이전트의 스킬을 공통 시스템 내에서 구현했습니다.</li>
-<li><b>핵심 게임 루프 구축</b>: 스파이크 상태 머신과 상점/경제 시스템을 라운드 흐름에 유기적으로 결합했습니다.</li>
-<li><b>안정적인 동기화 구조</b>: 서버 권위 구조와 태그 기반 입력 라우팅을 통해 클라이언트-서버 간 동기화 및 검증 로직을 단순화했습니다.</li>
+<li><b>핵심 게임 루프 구축</b>: Spike 설치·해체 상태와 라운드 전환, 구매 가능 시점 및 재화 갱신을 연결했습니다.</li>
+<li><b>서버 검증·입력 라우팅</b>: 서버에서 스킬 사용·구매 조건을 검사하고 GameplayTag로 입력을 분기했습니다.</li>
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
@@ -300,18 +291,18 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <td width="55%" valign="top" style="padding:15px;">
 <h3 align="center">Tazan (소울라이크 게임)</h3>
 <p align="center" style="color: #57606a;">
-독자적인 '강인도' 시스템으로 소울라이크 전투의 정수를 구현한 액션 게임
+Poise 기반 경직 우선순위·패리·회피를 구현한 3인 팀 소울라이크 액션 게임
 </p>
 <p>
-소울라이크 장르의 깊이 있는 공방을 구현하기 위해 '강인도(Poise)' 기반 경직 시스템을 핵심으로 설계했습니다. 패리, 퍼펙트 회피, 차지 공격 등을 더해 긴장감 넘치는 전투 경험을 제공합니다.
+공격 강인도와 방어 강인도를 비교해 경직·Stagger를 판정하고, 행동 상태에 따라 패리·회피·차지 공격의 반응을 분기했습니다.
 </p>
 <div>
 <p><strong>주요 구현 내용:</strong></p>
 <ul>
 <li><b>강인도 기반 경직 시스템</b>: 공격 강인도 vs 방어 강인도를 비교하고 경직 우선순위를 따져 상태를 갱신합니다.</li>
-<li><b>상황인지형 스마트 Lock-on</b>: 화면 중앙과 실제 거리를 종합적으로 판단하여 최적의 타겟을 선정하고, 거리에 따라 카메라를 동적으로 제어합니다.</li>
-<li><b>정교한 판정을 위한 충돌 시스템</b>: 프레임 보간(Interpolation)으로 충돌 누락을 방지하고, 다중 히트박스를 지원하여 판정의 정확도를 높였습니다.</li>
-<li><b>입력과 연동된 정밀 타이밍 제어</b>: Enhanced Input과 AnimNotifyState를 연동하여 패리, 회피, 콤보 등 정교한 컨트롤을 구현했습니다.</li>
+<li><b>Lock-on 타겟 선정</b>: 화면 중심과 대상 거리를 이용해 타겟을 선정하고, 타겟과의 거리에 따라 카메라를 조정합니다.</li>
+<li><b>공격 충돌 판정</b>: 이전·현재 프레임 위치 사이를 보간해 히트 검사를 수행하고 여러 히트박스를 처리했습니다.</li>
+<li><b>입력·애니메이션 연결</b>: Enhanced Input과 AnimNotifyState로 패리·회피·콤보 입력 가능 구간을 제어했습니다.</li>
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
@@ -385,17 +376,17 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 <td width="55%" valign="top" style="padding:15px;">
 <h3 align="center">LostGPU (100% Blueprint 액션 RPG)</h3>
 <p align="center" style="color: #57606a;">
-블루프린트를 사용하여 빠른 프로토타이핑 역량을 증명한 3D 액션 RPG
+Blueprint FSM과 데이터 테이블을 이용해 전투·보스 패턴을 구현한 액션 RPG
 </p>
 <p>
-언리얼 엔진 학습 1개월 만에 100% 블루프린트와 엔진의 주요 기능들을 활용하여 레이드 전투의 핵심 시스템을 완성했습니다. 이를 통해 새로운 기술에 대한 빠른 학습 능력과 아이디어를 신속하게 구현하는 역량을 증명합니다.
+Unreal Engine 학습 초기의 팀 프로젝트로, C++ 없이 Blueprint에서 플레이어 액션, 보스 전투 FSM, 상태이상 및 레이드 진행을 구현했습니다.
 </p>
 <div>
 <p><strong>담당 개발 및 역할:</strong></p>
 <ul>
-<li><b>FSM 기반의 정교한 전투 로직</b>: 플레이어의 스킬 시전 제약 및 대쉬 캔슬, 보스의 확률/사정거리 기반 '스킬 룰렛' 등 복잡한 전투 상호작용을 FSM으로 구현했습니다.</li>
-<li><b>확장성을 고려한 데이터 주도 설계</b>: 공용 <code>Base Skill Class</code>와 데이터 테이블을 활용해, 코드 수정 없이 스킬의 데미지, 쿨타임, 상태 이상 등을 유연하게 관리하고 추가할 수 있도록 설계했습니다.</li>
-<li><b>완성도 있는 레이드 루프 구현</b>: 보스 선택부터 컷신(Sequencer), 전투(갑옷/지형 파괴), 승패로 이어지는 하나의 완전한 콘텐츠 사이클을 완성했습니다.</li>
+<li><b>FSM 기반 전투 로직</b>: 플레이어의 스킬 시전 제약 및 대쉬 캔슬, 보스의 확률/사정거리 기반 '스킬 룰렛' 등 복잡한 전투 상호작용을 FSM으로 구현했습니다.</li>
+<li><b>스킬 데이터 분리</b>: 공통 <code>Base Skill Class</code>와 DataTable에서 스킬 피해·쿨타임·상태이상을 조회하도록 구성했습니다.</li>
+<li><b>레이드 진행</b>: 보스 선택 → Sequencer 컷신 → 갑옷·지형 파괴가 포함된 전투 → 승패 처리 흐름을 연결했습니다.</li>
 </ul>
 </div>
 <p align="center" style="margin-top: 20px;">
@@ -407,10 +398,6 @@ GAS를 활용하여 주요 시스템을 구현한 멀티플레이 하이퍼 FPS
 </table>
 ---
 <div align="center">
-
-### 🎮 "복잡한 게임 시스템을 안정적으로 구축하는 것이 저의 강점입니다"
-
-*C++ 기반의 견고한 설계로 플레이어에게 즐거운 경험을 선사하는 게임을 만들어가고 있습니다.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chungheonLee0325&color=brightgreen&style=flat-square)
 
