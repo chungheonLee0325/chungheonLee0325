@@ -62,9 +62,9 @@ Unreal Engine C++ 기반 클라이언트·게임플레이 개발을 중심으로
 <p align="center" style="margin-top: 20px;">
 <a href="https://github.com/chungheonLee0325/Sonheim"><b>Repository</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/Home.md"><b>Tech Docs (01–21)</b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim/wiki"><b>Tech Docs (01–21)</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/20_UI_Performance_Profiling.md"><b>UI 성능 분석</b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim/wiki/20_UI_Performance_Profiling"><b>UI 성능 분석</b></a>
 </p>
 </td>
 </tr>
@@ -104,9 +104,11 @@ Unreal Engine C++ 기반 클라이언트·게임플레이 개발을 중심으로
 <p align="center" style="margin-top: 20px;">
 <a href="https://github.com/chungheonLee0325/AgentMcp"><b>Repository</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/SonheimUiPerf.ko.md"><b>성능 조사 기록</b></a>
+<a href="https://github.com/chungheonLee0325/AgentMcp/wiki"><b>Tech Docs</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.ko.md"><b>UMG 제작 사례</b></a>
+<a href="https://github.com/chungheonLee0325/AgentMcp/wiki/Samples-SonheimUiPerf.ko"><b>성능 조사 기록</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/AgentMcp/wiki/Samples-DungeonUi.ko"><b>UMG 제작 사례</b></a>
 </p>
 </td>
 </tr>
