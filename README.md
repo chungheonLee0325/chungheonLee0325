@@ -1,17 +1,16 @@
 <div align="center">
 
 <h1>👋 안녕하세요, Unreal Client Engineer 이충헌입니다</h1>
-<h3>복잡한 게임 시스템을 구조화하고, 반복되는 문제를 도구와 구조 개선으로 해결합니다.</h3>
+<h3>게임플레이·UI의 상태 흐름을 설계하고, 반복 작업은 도구와 측정으로 개선합니다.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=C%2B%2B+%2B+Unreal+Engine+Developer;Gameplay+%26+Multiplayer+Systems;Unreal+Editor+Tooling)](https://git.io/typing-svg)
 
 </div>
 
-<br clear="left"/> <p align="center">
-단순히 기능을 구현하는 것을 넘어, **"더 나은 구조는 무엇일까?"** 를 항상 고민합니다.<br> 
-견고하고 확장 가능한 아키텍처를 설계하는 것에 큰 흥미를 느끼며, 특히 복잡한 게임 시스템이 유기적으로 동작할 때 가장 큰 희열을 느낍니다.<br>
-효율적인 구조 설계를 통해 <strong>유지보수와 사용자 경험</strong>을 모두 잡는 것을 목표로 합니다.<br>
-동료와 함께 배우고 성장하며 즐겁게 게임을 만드는 개발자입니다.
+<p align="center">
+Unreal Engine C++ 기반 클라이언트·게임플레이 개발을 중심으로 작업합니다.<br>
+서버 상태 수신부터 클라이언트 데이터 처리와 UMG/Slate 반영까지 연결하고,<br>
+객체 수명·UI 입력·성능 문제를 코드 구조와 실제 측정 결과로 검토합니다.
 </p>
 
 <div align="center">
@@ -39,23 +38,14 @@
 
 | 회사 | 기간 | 직무 및 주요 업무 | 사용 기술 |
 | :---: | :---: | :--- | :---: |
-| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11.02 ~ 현재 | **UE5 MMORPG 클라이언트 콘텐츠/UI 개발** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 연동 콘텐츠 구현 <br> • 라이브 UI 유지보수와 공통 구조 개선 <br> • Editor Tool 개발 및 크래시·객체 수명 문제 분석 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
+| **Unreal Engine 기반 크로스플랫폼 MMORPG(라이브 서비스)** | 2025.11 ~ 2026.09 | **UE5 MMORPG 클라이언트 콘텐츠/UI 개발** <br> • 공성전·길드 파티·복구 쿠폰 등 서버 연동 콘텐츠 구현 <br> • UMG/Slate UI 데이터 반영·입력 처리 정책 개선 <br> • Editor Tool 개발, UObject 수명·크래시 원인 분석 | <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Blueprint-1E90FF?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Slate_UI-2F4F4F?style=flat-square" /> |
 | **모바일 MMORPG 개발사** | 9개월 | **모바일 MMORPG 서버/클라이언트 개발** <br> • 레이드 보스 시스템 (페이즈, 패턴, 난이도) <br> • 영웅 성장 시스템 설계 <br> • 스킬 시스템 개선 (예약, 확장, 인디케이터) <br> • FSM 기반 몬스터 AI 구현 | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
 | **차량용 SW/툴 개발사** | 2년 7개월 | **차량용 설계 도구 및 SW 개발** <br> • RapidAUTO Tool 연동 기능 개발 <br> • Windows 애플리케이션 기능 개발/유지보수 <br> • 전기차 BMS 시스템 코드 변환 컨설팅 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" /> |
 ---
 
-### 💡 프로젝트 탐색 가이드
-<!-- [현재 페이지에 맞는 설명의 주석을 해제하여 사용하세요] -->
-현재 보고 계신 이 페이지는 주요 프로젝트를 소개하는 '갤러리' 입니다. 마음에 드는 프로젝트를 발견했다면, 아래 단계를 따라 깊게 탐색해 보세요.
-<!-- README 설명: 이 README는 프로젝트의 핵심을 요약한 '쇼케이스'입니다. 전체적인 개요를 파악한 뒤, 더 깊은 기술적 내용이 궁금하다면 Tech Docs를 확인해 보세요. -->
-<!-- Tech Docs 설명: 이 기술 문서는 프로젝트의 상세 구현을 다루는 '심층 분석' 자료입니다. README에서 생긴 궁금증을 이곳에서 코드를 통해 확인해 보세요. -->
+### 프로젝트 문서 안내
 
-| 문서 | 역할 | 내용 |
-| :--- | :--- | :--- |
-| 📋 **Project Gallery** | **Root (전체 개요)** | 주요 프로젝트 목록, 핵심 역량 요약 |
-| 📁 Repository README | What (개요) | 프로젝트 개요, 데모 영상, 핵심 기능, 아키텍처 |
-| 🔗 Tech Docs | How & Why (상세 구현) | 코드 분석, 설계 과정, 기술 회고, 트러블슈팅 |
-
+이 페이지에서는 프로젝트별 핵심 구현을 소개합니다. 시연과 기능 구성은 **Repository README**, 구조·코드·기술 선택은 **Tech Docs**에서 확인할 수 있습니다.
 
 ---
 
@@ -63,7 +53,7 @@
 
 <div>
   <h4>UE5 개발 중 마주친 문제들의 원인 분석과 해결 과정</h4>
-  <p>단순 구현이 아닌, 엔진 소스코드 기반으로 근본 원인을 파악합니다.</p>
+  <p>구현 중 확인한 Unreal Engine 동작과 재현·수정 과정을 정리했습니다.</p>
 </div>
 
 | 아티클 | 내용 |
@@ -96,31 +86,28 @@
 
 <td width="55%" valign="top" style="padding:15px;">
 
-<h3 align="center">AgentMcp — UE5.5 AI Agent Workflow Plugin</h3>
+<h3 align="center">AgentMcp — Unreal Editor MCP · Agent Skills</h3>
 
-<p>
-<strong>UE 5.8의 MCP / Agent Skill 개념을 UE 5.5 환경에 맞게 재구현하고,
-실제 게임 개발 Workflow로 확장한 Editor Plugin입니다.</strong>
-</p>
+<p><strong>UE 5.5·5.7에서 사용하는 Unreal Editor 플러그인으로, Claude Code·Codex가 프로젝트를 조사·수정·실행·검증할 수 있도록 MCP 도구와 작업별 Skill을 제공합니다.</strong></p>
 
-<p>
-단순한 Unreal 원격 제어를 넘어, 프로젝트별 <code>SKILL.md</code>를
-<strong>동적으로 로드·Override</strong>하고 Agent가
-<strong>UMG 제작 → Compile → PIE → Capture / Log → Review</strong>까지 반복할 수 있도록 구성했습니다.
-</p>
+<p>UE 5.8의 실험적 MCP/Toolset 및 Agent Skill 개념을 참고해 기존 버전에서 별도로 구현했습니다. 일반적인 원격 조작에 그치지 않고, <code>SKILL.md</code> 작업 절차와 실제 프로젝트 도구를 함께 제공하는 방식입니다.</p>
 
 <ul>
-<li><b>Dynamic Agent Skills</b> — Codex·Claude Code가 공유하는 프로젝트별 Skill과 런타임 로딩</li>
-<li><b>UMG-focused Authoring</b> — Widget Tree·<code>BindWidget</code> 분석, Widget Blueprint·DataTable·Theme 기반 UI 제작</li>
-<li><b>Build → Run → Review</b> — 실제 실행 결과를 확인하고 다시 수정하는 Agent 검증 루프</li>
+<li><b>Dynamic Agent Skills</b> — 기본 Skill을 에디터에서 제공하고, 프로젝트별 <code>SKILL.md</code>를 런타임에 읽어 덮어쓰기. <code>umg-authoring</code>·<code>blueprint-graphs</code>·<code>perf-investigation</code> 등</li>
+<li><b>UMG / Blueprint</b> — Widget Tree·C++ <code>BindWidget</code> 검증, Widget Blueprint 및 Blueprint 노드 편집, Compile → PIE → Viewport/Log 확인</li>
+<li><b>UI Performance</b> — CSV·Unreal Insights Trace·<code>ProfileGPU</code>를 분석하고, 반복 실행 간 편차를 고려해 수정 전후 비교</li>
+<li><b>Editor AI Chat</b> — 에디터 내 채팅에서 계정 기반 에이전트를 호출하고 읽기/에셋/코드 권한 및 변경 승인 카드로 작업 범위 제어</li>
 </ul>
 
-<p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/AgentMcp" target="_blank"><b>📁 Repository</b></a>
-&nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.md" target="_blank"><b>🔗 Case Study</b></a>
-</p>
+<p>실제 Sonheim UI에서 기존에 측정하지 않았던 화면을 조사해 보관함 재생성 비용, Delegate 중복 구독, 알림 오류를 확인·수정한 과정을 기록했습니다.</p>
 
+<p align="center" style="margin-top: 20px;">
+<a href="https://github.com/chungheonLee0325/AgentMcp"><b>Repository</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/SonheimUiPerf.ko.md"><b>성능 조사 기록</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/AgentMcp/blob/main/Docs/Samples/DungeonUi.ko.md"><b>UMG 제작 사례</b></a>
+</p>
 </td>
 </tr>
 </table>
@@ -151,26 +138,26 @@
 </td>
 <!-- 오른쪽: 상세 설명 -->
 <td width="55%" valign="top" style="padding:15px;">
-<h3 align="center">Sonheim (Multiplayer 3D Action Adventure)</h3>
-<p align="center" style="color: #57606a;">
-서버 권위 멀티플레이와 데이터 기반 콘텐츠 구조를 중심으로 확장한 3D 액션 어드벤처
-</p>
-<p>
-2인 팀으로 핵심 기반을 구축한 뒤 개인 확장 개발을 이어가며, 전투·아이템·제작·팰 시스템부터 분기 던전과 보스 콘텐츠까지 하나의 멀티플레이 게임플레이 구조로 확장했습니다.
-</p>
-<div>
-<p><strong>담당 개발 및 역할:</strong></p>
+<h3 align="center">Sonheim — UE5.5 Multiplayer Gameplay & UI</h3>
+<p align="center" style="color: #57606a;">서버 권위 게임플레이와 데이터 기반 콘텐츠, 클라이언트 화면 구조를 연결한 액션 어드벤처</p>
+
+<p>초기 2인 팀에서 전투·인벤토리·제작·포획 시스템을 구현한 뒤, 개인 개발로 도감·퀘스트·분기 던전·보스·월드맵·UI 프레임워크를 확장했습니다.</p>
+
+<p><strong>주요 구현:</strong></p>
 <ul>
-<li><b>멀티플레이 게임플레이</b>: RPC·Replication·FastArray를 기반으로 서버 권위 상태를 동기화하고, 인벤토리 등 반응성이 필요한 구간에는 제한적 클라이언트 예측과 보정을 적용했습니다.</li>
-<li><b>핵심 시스템</b>: 공통 상호작용, Skill/Combat, Inventory·Equipment·Shared Container, 협동 제작, Pal Capture·Partner lifecycle을 구현했습니다.</li>
-<li><b>데이터 기반 콘텐츠</b>: DataTable·DataAsset·GameplayTag를 활용해 분기 던전의 Event/Condition/Action 흐름과 Boss Pattern·Telegraph를 콘텐츠 데이터로 구성했습니다.</li>
-<li><b>UI·검증 구조</b>: UMG의 상태 전달 경계를 정리하고, Dungeon/Boss 정의에 구조 검증과 반복 시나리오 검증을 추가해 콘텐츠 확장 시 오류를 조기에 확인하도록 구성했습니다.</li>
+<li><b>게임플레이·네트워크</b>: Server RPC, OwnerOnly FastArray, 스킬 UObject 복제, GameState Snapshot으로 실행 권한과 복제 범위를 구분했습니다.</li>
+<li><b>콘텐츠 확장</b>: 게임플레이 이벤트를 도감·퀘스트 기록과 연결하고, 던전 Event/Action/Transition 및 보스 PatternClock·Telegraph를 데이터로 관리했습니다.</li>
+<li><b>UI 아키텍처</b>: 게임 상태 → Delegate/RepNotify → Presenter/ViewData → Widget 경로를 정리하고, <code>GameUIFramework</code>로 화면 레이어·입력 모드·팝업·재사용 정책을 분리했습니다.</li>
+<li><b>월드맵</b>: 플레이어별 탐험 안개를 미니맵·전체 지도에서 공유하고, 퀘스트·도감 위치와 빠른 이동 표석을 연동했습니다.</li>
+<li><b>성능 분석</b>: 1080p/RTX 2070 SUPER 환경에서 아이템 교환 이벤트 프레임 <b>32.6 → 17.1ms</b>, 인벤토리 열기 <b>57.5 → 22.1ms</b>를 측정했습니다. 수집 조건과 원인은 Wiki에 기록했습니다.</li>
 </ul>
-</div>
+
 <p align="center" style="margin-top: 20px;">
-<a href="https://github.com/chungheonLee0325/Sonheim" target="_blank"><b>📁 Repository README</b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim"><b>Repository</b></a>
 &nbsp;|&nbsp;
-<a href="https://github.com/chungheonLee0325/Sonheim/wiki" target="_blank"><b>🔗 Tech Docs </b></a>
+<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/Home.md"><b>Tech Docs (01–21)</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/chungheonLee0325/Sonheim/blob/main/Doc/Wiki/20_UI_Performance_Profiling.md"><b>UI 성능 분석</b></a>
 </p>
 </td>
 </tr>
